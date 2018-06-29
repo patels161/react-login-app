@@ -25,20 +25,20 @@ Simple app with react, webpack 4, hot-reload &amp; bootstrap 4.
 
 ## About files
 
-1. package.json
+1. package.json::
 package.json file has all the dependencies including ones required by developers. It has scripts to test, start and build the application.
 Here we are using webpack-dev-server to bundle and start the application.
 
-2. webpack.config.js
+2. webpack.config.js::
 This file has all the configuration for webpack module bundler.
 
-3. babel.rc
+3. babel.rc::
 to provide options for babel-loader.
 
-4. index.html
+4. index.html::
 Main html file which gets loaded when we run the application.
 
-5. index.js
+5. index.js::
 JavaScript code for our react components.
 
 
